@@ -1,0 +1,171 @@
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../src/css/style.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+    <title>JSON Server</title>
+</head>
+
+
+<body class="vsc-initialized" cz-shortcut-listen="true">
+
+    <div id="mainNavigation">
+        <nav role="navigation">
+            <div class="py-3 text-center border-bottom">
+                <img src="/static_files/images/logos/logo_3_white_2.png" alt="" class="invert">
+            </div>
+        </nav>
+        <div class="navbar-expand-md">
+            <div class="navbar-dark text-center my-2">
+                <button class="navbar-toggler w-75" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span> <span class="align-middle">Menu</span>
+                </button>
+            </div>
+            <div class="text-center mt-3 collapse navbar-collapse align-items-center" id="navbarNavDropdown">
+                <ul class="navbar-nav mx-auto  ">
+                    <li class="nav-item">
+                        <a class="nav-link active p-0 text-uppercase me-2" aria-current="page" href="#"> JSON Server</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-2 ms-2 " href="https://github.com/users/typicode/sponsorship">
+                            <i class="fas fa-heart"></i>GitHub Sponsors
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link   me-2 ms-2" href="https://my-json-server.typicode.com">
+                            <i class="fas fa-burn"></i>My JSON Server
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link  me-2 ms-2 " href="https://thanks.typicode.com">
+                            <i class="far fa-laugh"></i>Supporters
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle p-0 " href="#" id="navbarDropdownMenuLink" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Resources
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" href="imovel">/imovel</a>
+                            </li>
+                            <li><a class="dropdown-item" href="caracteristicas">/caracteristicas</a>
+                            </li>
+                            <li><a class="dropdown-item" href="endereco">/endereco</a>
+                            </li>
+                            <li><a class="dropdown-item" href="usuario">/usuario</a>
+                            <li><a class="dropdown-item" href="corretor">/corretor</a>
+
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <main>
+        <div class="container text-center">
+            <p class="h1">Congrats!</p>
+            <p>
+                You're successfully running JSON Server
+                <br>
+                ✧*｡٩(ˊᗜˋ*)و✧*｡
+            </p>
+
+
+            <p>
+                To access and modify resources, you can use any HTTP method:
+            </p>
+            
+            <p>
+                <code>GET</code>
+                <code>POST</code>
+                <code>PUT</code>
+                <code>PATCH</code>
+                <code>DELETE</code>
+                <code>OPTIONS</code>
+            </p>
+            <table class="table d-grid justify-content-center">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Resources</th>
+    
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td><a class="dropdown-item" href="imovel">/imovel</a></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td><a class="dropdown-item" href="caracteristicas">/caracteristicas</a></td>
+                    </tr>
+                    <tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td><a class="dropdown-item" href="endereco">/endereco</a></td>
+                    </tr>
+                    <tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td><a class="dropdown-item" href="usuario">/usuario</a></td>
+                    </tr>
+                    <tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td><a class="dropdown-item" href="corretor">/corretor</a></td>
+                        </tr>
+                       
+                        <h1>Documentation</h1>
+                        <p>
+                            <a href="https://github.com/typicode/json-server">
+                                README
+                            </a>
+                        </p>
+                        <p>
+                            Use insomnia to make requests to the database
+                            <a class="text-uppercase" href="https://insomnia.rest/">
+                                <p>insomnia</p> 
+                            </a>
+                        </p>
+                        <p>
+                            Insomnia Api How to use Insomnia to Test API Endpoints
+                            <a class="text-uppercase" href="https://dev.to/kmcknight91/how-to-use-insomnia-to-test-api-endpoints-1lad#:~:text=1%20Step%201%3A%20Install%20Insomnia%20Head%20over%20to,...%207%20Step%207%3A%20Make%20a%20DELETE%20Request">
+                                <p>article</p> 
+                            </a>
+                        </p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>
+
+            </p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+        integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"
+        integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk"
+        crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+
+
+</body>
+
+</html>
