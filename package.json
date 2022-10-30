@@ -1,0 +1,27 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatokoLB/Api_Real_Estate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MatokoLB/Api_Real_Estate/issues"
+  },
+  "homepage": "https://github.com/MatokoLB/Api_Real_Estate#readme",
+  "description": ""
+}
