@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "start": " node server.js",
-    "dev": "json-server --watch db.json --port 3000"
+    "dev": "json-server --watch db.json --port 3000",
+    "server-remote": "json-server https://server-json.onrender.com/db"
   },
   "keywords": [],
   "author": "",
