@@ -15,3 +15,8 @@ $ <http://localhost:3000>
 
 ## Acesse o servidor remoto
 $ <https://server-json.onrender.com/>
+
+
+## utilize o software da isonomia
+## para fazer as requisiçoes ao servidor
+$ <https://insomnia.rest/>
