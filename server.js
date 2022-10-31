@@ -18,5 +18,5 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 server.use(router)
 server.listen(3000, () => {
-  console.log('Servidor ativo')
+  console.log('Servidor ativo:http://localhost:3000')
 })
