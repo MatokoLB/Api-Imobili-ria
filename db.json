@@ -1,117 +1,124 @@
 {
-   "imovel": [
-      {
-         "nome": "casa baixa",
-         "localidade": "paciencia",
-         "perco": "R$:10.000",
-         "descricao_pequena": "uma casa simples em paciencia",
-         "id": 0
+  "imovel": [
+    {
+      "nome": "casa baixa",
+      "localidade": "paciencia",
+      "perco": "R$:10.000",
+      "descricao_pequena": "uma casa simples em paciencia",
+      "id": 0
+    },
+    {
+      "nome": "casa media",
+      "localidade": "campo grande",
+      "perco": "R$:500.000",
+      "descricao": "uma casa media em CG",
+      "id": 1
+    },
+    {
+      "nome": "casa luxo",
+      "localidade": "antares",
+      "perco": "R$:1.000000",
+      "descricao_pequena": "uma casa luxuosa no antares",
+      "id": 2
+    },
+    {
+      "nome": "casa",
+      "localidade": "ans",
+      "perco": "R$:20",
+      "descricao_pequena": "uma casa",
+      "id": 3
+    }
+  ],
+  "caracteristicas": [
+    {
+      "id": 1,
+      "descricao": "grande descricao",
+      "tipo de imovel": "casa",
+      "comodos": {
+        "Suites": "3",
+        "areas": "223M²",
+        "cozinhas": "2",
+        "banheiros": "2",
+        "vagas": "1"
       },
-      {
-         "nome": "casa media",
-         "localidade": "campo grande",
-         "perco": "R$:500.000",
-         "descricao": "uma casa media em CG",
-         "id": 1
+      "fotos": {
+        "img1": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-casa-moderna-madera-560x374.jpg",
+        "img2": "https://www.construyehogar.com/wp-content/uploads/2020/09/Diseno-de-fachada-madera-y-piedra-560x372.jpg",
+        "img3": "https://www.construyehogar.com/wp-content/uploads/2020/09/Diseno-de-escaleras-interiores-de-madera.jpg"
       },
-      {
-         "nome": "casa luxo",
-         "localidade": "antares",
-         "perco": "R$:1.000000",
-         "descricao_pequena": "uma casa luxuosa no antares",
-         "id": 2
-      }
-   ],
-   "caracteristicas": [
-      {
-         "id": 1,
-         "descricao": "grande descricao",
-         "tipo de imovel": "casa",
-         "comodos": {
-            "Suites": "3",
-            "areas": "223M²",
-            "cozinhas": "2",
-            "banheiros": "2",
-            "vagas": "1"
-         },
-         "fotos": {
-            "img1": "url",
-            "img2": "url",
-            "img3": "url"
-         },
-         "condominio": "R$:10.000/mes",
-         "imovelId": 0
+      "condominio": "R$:10.000/mes",
+      "imovelId": 0
+    },
+    {
+      "id": 1,
+      "descricao": "grande descricao",
+      "tipo de imovel": "apartamneto",
+      "comodos": {
+        "Suites": "1",
+        "areas": "50M²",
+        "cozinhas": "1",
+        "banheiros": "2",
+        "vagas": "0"
       },
-      {
-         "id": 1,
-         "descricao": "grande descricao",
-         "tipo de imovel": "apartamneto",
-         "comodos": {
-            "Suites": "1",
-            "areas": "50M²",
-            "cozinhas": "1",
-            "banheiros": "2",
-            "vagas": "0"
-         },
-         "fotos": {
-            "img1": "url",
-            "img2": "url",
-            "img3": "url"
-         },
-         "condominio": "Sem",
-         "imovelId": 1
-      }
-   ],
-   "endereco": [
-      {
-         "id": 0,
-         "cidade": "RJ",
-         "bairro": "santa cruz",
-         "cep": "205815-025",
-         "numero": "235",
-         "rua": " rua oscar pinto ",
-         "imovelId": 0
+      "fotos": {
+        "img1": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-de-casa-moderna-560x372.jpg",
+        "img2": "https://www.construyehogar.com/wp-content/uploads/2020/09/Ingreso-principal-a-casa-moderna-400x560.jpg",
+        "img3": "https://www.construyehogar.com/wp-content/uploads/2020/09/Diseno-de-cocina-moderna-520x560.jpg"
       },
-      {
-         "id": 1,
-         "cidade": "SP",
-         "bairro": "sao paulo",
-         "cep": "2054-025",
-         "numero": "150",
-         "rua": " Rua bolacha ",
-         "imovelId": 1
-      }
-   ],
-   "usuario": [
-      {
-         "id": 0,
-         "name": "ana",
-         "email": "ana@gmail.com",
-         "telefone": "8415151",
-         "senha": "2020"
-      },
-      {
-         "id": 1,
-         "name": "cicrano",
-         "email": "cicrano@gmail.com",
-         "telefone": "81545313",
-         "senha": "2020"
-      }
-   ],
-   "corretor": [
-      {
-         "id": 0,
-         "name": "edu",
-         "email": "edu@gmail.com",
-         "telefone": "99999999",
-         "imovelId": 0
-      },
-      {
-         "id": 1,
-         "name": "jose",
-         "email": "jose@gmail.com",
-         "telefone": "20554241",
-         "imovelId": 1
-      }
-   ]
+      "condominio": "Sem",
+      "imovelId": 1
+    }
+  ],
+  "endereco": [
+    {
+      "id": 0,
+      "cidade": "RJ",
+      "bairro": "santa cruz",
+      "cep": "205815-025",
+      "numero": "235",
+      "rua": " rua oscar pinto ",
+      "imovelId": 0
+    },
+    {
+      "id": 1,
+      "cidade": "SP",
+      "bairro": "sao paulo",
+      "cep": "2054-025",
+      "numero": "150",
+      "rua": " Rua bolacha ",
+      "imovelId": 1
+    }
+  ],
+  "usuario": [
+    {
+      "id": 0,
+      "name": "ana",
+      "email": "ana@gmail.com",
+      "telefone": "8415151",
+      "senha": "2020"
+    },
+    {
+      "id": 1,
+      "name": "cicrano",
+      "email": "cicrano@gmail.com",
+      "telefone": "81545313",
+      "senha": "2020"
+    }
+  ],
+  "corretor": [
+    {
+      "id": 0,
+      "name": "edu",
+      "email": "edu@gmail.com",
+      "telefone": "99999999",
+      "imovelId": 0
+    },
+    {
+      "id": 1,
+      "name": "jose",
+      "email": "jose@gmail.com",
+      "telefone": "20554241",
+      "imovelId": 1
+    }
+  ]
 }
