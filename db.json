@@ -1,124 +1,130 @@
 {
-  "imovel": [
+  "blog": [
     {
-      "nome": "casa baixa",
-      "localidade": "paciencia",
-      "perco": "R$:10.000",
-      "descricao_pequena": "uma casa simples em paciencia",
-      "id": 0
-    },
-    {
-      "nome": "casa media",
-      "localidade": "campo grande",
-      "perco": "R$:500.000",
-      "descricao": "uma casa media em CG",
+      "title": "A HORA DO PESADELO 5 - O MAIOR HORROR DE FREDDY",
+      "body": "Após sobreviver ao último ataque de Freddy Krueger (Robert Englund), Alice Johnson (Lisa Wilcox) tem um período de calmaria até voltar a ter sonhos com o assassino. Desta vez o alvo de Freddy não é Alice, mas o filho que ela carrega na barriga. Seu plano é usá-lo para que possa nascer outra vez.",
+      "author": "Stephen Hopkins",
+      "date": "23 de fevereiro de 2022 ",
+      "avaliacao": "3.0",
+      "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/92/51/19962954.jpg",
       "id": 1
     },
     {
-      "nome": "casa luxo",
-      "localidade": "antares",
-      "perco": "R$:1.000000",
-      "descricao_pequena": "uma casa luxuosa no antares",
+      "title": "A Hora do Pesadelo - 2010",
+      "body": "Um grupo de adolescentes de um subúrbio americano tem um sonho em comum, envolvendo Freddy Krueger (Jackie Earle Haley). Ele é um assassino desfigurado, que sempre os persegue em seus sonhos. Enquanto eles estão acordados não há risco algum, mas quando adormecem é a chance que Krueger tem para dominá-los.",
+      "author": "Samuel Bayer",
+      "date": "7 de maio de 2010",
+      "avaliacao": "3.8",
+      "image": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/31/89/19874266.jpg",
       "id": 2
     },
     {
-      "nome": "casa",
-      "localidade": "ans",
-      "perco": "R$:20",
-      "descricao_pequena": "uma casa",
+      "title": "ENCANTO",
+      "body": "Encanto é o novo filme de animação da Disney, situada na Colômbia. Nela, a família Madrigal e a comunidade em volta da casa da família é cercada por montanhas, que os deixam protegidos dos maus do mundo. Porém, a família Madrigal é dotada de magia, com cada um dos integrantes da família tendo algum poder mágico que é usado para ajudar a comunidade. Apesar da família ser dotada de magia, apenas um integrante dela não recebeu seu dom quando tinha cinco anos, Mirabel, que sempre tenta ajudar a família e a comunidade como consegue, mas não importa o que faça, ela nunca consegue agradar sua Abuela. Um dia, na noite em que um de seus primos recebe seus dons, ela vê a casa da família rachando, algo que é relevado pela família, já que ela não tem poderes mágicos. Mirabel então parte em uma aventura própria para achar o que há de errado com a casa e salvar todos de sua família, e o único que pode dar as respostas é seu tio Bruno, que vê o futuro. O único problema é que ele saiu um dia e nunca mais voltou.",
+      "author": " Charise Castro Smith, Byron Howard, Jared Bush",
+      "date": "25 de novembro de 2021",
+      "avaliacao": "4.1",
+      "image": "https://br.web.img2.acsta.net/c_310_420/pictures/21/09/29/18/02/2861381.jpg",
       "id": 3
-    }
-  ],
-  "caracteristicas": [
-    {
-      "id": 1,
-      "descricao": "grande descricao",
-      "tipo de imovel": "casa",
-      "comodos": {
-        "Suites": "3",
-        "areas": "223M²",
-        "cozinhas": "2",
-        "banheiros": "2",
-        "vagas": "1"
-      },
-      "fotos": {
-        "img1": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-casa-moderna-madera-560x374.jpg",
-        "img2": "https://www.construyehogar.com/wp-content/uploads/2020/09/Diseno-de-fachada-madera-y-piedra-560x372.jpg",
-        "img3": "https://www.construyehogar.com/wp-content/uploads/2020/09/Diseno-de-escaleras-interiores-de-madera.jpg"
-      },
-      "condominio": "R$:10.000/mes",
-      "imovelId": 0
     },
     {
-      "id": 1,
-      "descricao": "grande descricao",
-      "tipo de imovel": "apartamneto",
-      "comodos": {
-        "Suites": "1",
-        "areas": "50M²",
-        "cozinhas": "1",
-        "banheiros": "2",
-        "vagas": "0"
-      },
-      "fotos": {
-        "img1": "https://www.construyehogar.com/wp-content/uploads/2020/09/Fachada-de-casa-moderna-560x372.jpg",
-        "img2": "https://www.construyehogar.com/wp-content/uploads/2020/09/Ingreso-principal-a-casa-moderna-400x560.jpg",
-        "img3": "https://www.construyehogar.com/wp-content/uploads/2020/09/Diseno-de-cocina-moderna-520x560.jpg"
-      },
-      "condominio": "Sem",
-      "imovelId": 1
-    }
-  ],
-  "endereco": [
-    {
-      "id": 0,
-      "cidade": "RJ",
-      "bairro": "santa cruz",
-      "cep": "205815-025",
-      "numero": "235",
-      "rua": " rua oscar pinto ",
-      "imovelId": 0
+      "title": "Kong: A Ilha da Caveira",
+      "body": "1944, durante a Segunda Guerra Mundial. Dois aviões, um americano e outro japonês, são abatidos em pleno combate aéreo. Os pilotos sobrevivem, chegando a uma ilha desconhecida no Pacífico Sul. Lá eles dão continuidade à batalha, sendo surpreendidos pela aparição de um macaco gigante: Kong. Em 1973, Bill Randa (John Goodman) tenta obter junto a um político norte-americano a verba necessária para bancar uma expedição à tal ilha perdida. Ele acredita que lá existam monstros, mas precisa de provas concretas. Após obter a quantia, ele coordena uma expedição que reúne militares, liderados pelo coronel Preston Packard (Samuel L. Jackson), o rastreador James Conrad (Tom Hiddleston) e a fotógrafa Mason Weaver (Brie Larson).",
+      "author": "Jordan Vogt-Roberts",
+      "date": "9 de março de 2017",
+      "avaliacao": "3.8",
+      "image": "https://br.web.img3.acsta.net/c_310_420/pictures/17/02/24/14/55/144568.jpg",
+      "id": 4
     },
     {
-      "id": 1,
-      "cidade": "SP",
-      "bairro": "sao paulo",
-      "cep": "2054-025",
-      "numero": "150",
-      "rua": " Rua bolacha ",
-      "imovelId": 1
-    }
-  ],
-  "usuario": [
-    {
-      "id": 0,
-      "name": "ana",
-      "email": "ana@gmail.com",
-      "telefone": "8415151",
-      "senha": "2020"
+      "title": "GODZILLA VS KONG",
+      "body": "No primeiro crossover do MonstroVerso, universo cinematográfico da Warner Bros, acompanhamos a história dos protetores de Kong que embarcam em uma jornada perigosa para encontrar o verdadeiro lar do gorila gigante. Entretanto, tudo sai do controle quando um Godzilla enfurecido começa a deixar um rastro de destruição pelo planeta Terra. Agora, o rei da ilha da caveira precisará deter o rei dos monstros. Esse combate épico entre os dois titãs, instigado por forças ocultas, é apenas o começo do mistério que jaz no núcleo da Terra. Será que o mundo sobreviverá ao duelo de monstros? Façam as suas apostas!",
+      "author": "Adam Wingard",
+      "date": "6 de maio de 2021",
+      "avaliacao": "3.8",
+      "image": "https://br.web.img2.acsta.net/c_310_420/pictures/19/07/04/00/09/0672480.jpg",
+      "id": 5
     },
     {
-      "id": 1,
-      "name": "cicrano",
-      "email": "cicrano@gmail.com",
-      "telefone": "81545313",
-      "senha": "2020"
-    }
-  ],
-  "corretor": [
-    {
-      "id": 0,
-      "name": "edu",
-      "email": "edu@gmail.com",
-      "telefone": "99999999",
-      "imovelId": 0
+      "title": "King Kong",
+      "body": "1933. Ann Darrow (Naomi Watts), uma atriz de vaudeville, enfrenta dificuldades para se sustentar, como vários outros americanos durante a Grande Depressão. Ela caminha pelas ruas de Manhattan pensando na possibilidade de trabalhar em um cabaré, até que a fome a faz roubar uma maçã. Ann é salva pelo cineasta Carl Denham (Jack Black), que oferece a ela o papel principal em sua próxima produção. Inicialmente indecisa, Ann aceita a oferta após saber que o roteirista é o conceituado dramaturgo Jack Driscoll (Adrien Brody). Na verdade Carl está em apuros, já que o patrocínio para concluir seu filme inacabado foi cancelado e sua antiga atriz principal abandonou o projeto. Apesar dos problemas, Carl embarca a equipe e o elenco de seu filme no cargueiro fretado S.S. Venture. O objetivo da viagem é chegar na Ilha da Caveira, que tem a fama de abrigar uma raça perdida e várias criaturas consideradas extintas.",
+      "author": "Peter Jackson",
+      "date": "16 de dezembro de 2005",
+      "avaliacao": "4.2",
+      "image": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/95/13/92/20384102.jpg",
+      "id": 6
     },
     {
-      "id": 1,
-      "name": "jose",
-      "email": "jose@gmail.com",
-      "telefone": "20554241",
-      "imovelId": 1
+      "title": "ASSASSIN'S CREED",
+      "body": "Callum Lynch (Michael Fassbender) descobre que é descendente de um membro da Ordem dos Assassinos e, via memória genética, revive as aventuras do guerreiro Aguilar, seu ancestral espanhol do século XV. Dotado de novos conhecimentos e incríveis habilidades, ele volta aos dias de hoje pronto para enfrentar os Templários. Versão para as telonas do game Assassin's Creed.",
+      "author": "Justin Kurzel",
+      "date": "12 de janeiro de 2017",
+      "avaliacao": "3.4",
+      "image": "https://br.web.img2.acsta.net/c_310_420/pictures/16/10/18/15/39/598039.jpg",
+      "id": 7
+    },
+    {
+      "title": "O LOBO DE WALL STREET",
+      "body": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a ideia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
+      "author": "Martin Scorsese",
+      "date": "24 de janeiro de 2014",
+      "avaliacao": "4.5",
+      "image": "https://br.web.img3.acsta.net/c_310_420/pictures/13/12/30/18/11/111145.jpg",
+      "id": 8
+    },
+    {
+      "title": "ALADDIN",
+      "body": "Aladdin (Mena Massoud) é um jovem ladrão que vive de pequenos roubos em Agrabah. Um dia, ele ajuda uma jovem a recuperar um valioso bracelete, sem saber que ela na verdade é a princesa Jasmine (Naomi Scott). Aladdin logo fica interessado nela, que diz ser a criada da princesa. Ao visitá-la em pleno palácio e descobrir sua identidade, ele é capturado por Jafar (Marwan Kenzari), o grão-vizir do sultanato, que deseja que ele recupere uma lâmpada mágica, onde habita um gênio (Will Smith) capaz de conceder três desejos ao seu dono.",
+      "author": "Guy Ritchie",
+      "date": "23 de maio de 2019",
+      "avaliacao": "4.3",
+      "image": "https://br.web.img2.acsta.net/c_310_420/pictures/19/03/12/17/42/1157358.jpg",
+      "id": 9
+    },
+    {
+      "title": "Malévola",
+      "body": "Baseado no conto da Bela Adormecida, o filme conta a história de Malévola (Angelina Jolie), a protetora do reino dos Moors. Desde pequena, esta garota com chifres e asas mantém a paz entre dois reinos diferentes, até se apaixonar pelo garoto Stefan (Sharlto Copley). Os dois iniciam um romance, mas Stefan tem a ambição de se tornar líder do reino vizinho, e abandona Malévola para conquistar seus planos. A garota torna-se uma mulher vingativa e amarga, que decide amaldiçoar a filha recém-nascida de Stefan, Aurora (Elle Fanning). Aos poucos, no entanto, Malévola começa a desenvolver sentimentos de amizade em relação à jovem e pura Aurora.",
+      "author": "Robert Stromberg",
+      "date": "04/04/2018",
+      "avaliacao": "4.4",
+      "image": "https://br.web.img3.acsta.net/c_310_420/pictures/210/571/21057123_20131112192017072.jpg",
+      "id": 10
+    },
+    {
+      "title": "MALÉVOLA - DONA DO MAL",
+      "body": "Em Malévola - Dona do Mal, cinco anos após Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors é pedida em casamento pelo príncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de Malévola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebração entre os reinos, mas os interesses de Ingrith vêm à tona quando é criado um atrito com Malévola e os demais seres mágicos.",
+      "author": "Joachim Rønning",
+      "date": "17 de outubro de 2019",
+      "avaliacao": "3.8",
+      "image": "https://br.web.img3.acsta.net/c_310_420/pictures/19/09/26/20/31/2705293.jpg",
+      "id": 11
+    },
+    {
+      "title": "QUESTÃO DE TEMPO",
+      "body": "Ao completar 21 anos, Tim (Domhnall Gleeson) é surpreendido com a notícia dada por seu pai (Bill Nighy) de que pertence a uma linhagem de viajantes no tempo. Ou seja, todos os homens da família conseguem viajar para o passado, bastando apenas ir para um local escuro e pensar na época e no local para onde deseja ir. Cético a princípio, Tim logo se empolga com o dom ao ver que seu pai não está mentindo. Sua primeira decisão é usar esta capacidade para conseguir uma namorada, mas logo ele percebe que viajar no tempo e alterar o que já aconteceu pode provocar consequências inesperadas.",
+      "author": "Richard Curtis",
+      "date": "20 de dezembro de 2013",
+      "avaliacao": "4.6",
+      "image": "https://br.web.img2.acsta.net/c_310_420/pictures/210/530/21053062_20131025204305591.jpg",
+      "id": 12
+    },
+    {
+      "title": "HANCOCK",
+      "body": "Hancock (Will Smith) é um super-herói que perdeu a popularidade que tinha, devido às suas tentativas de resgate pouco convencionais. Após salvar Ray Embrey (Jason Bateman), um agente de relações públicas, ele se oferece para ajudá-lo a melhorar sua imagem. A idéia não é bem aceita por Mary (Charlize Theron), a esposa de Ray, que mostra ao marido que Hancock teve uma ordem de prisão contra si lançada. Ray então sugere que Hancock se entregue, mesmo podendo escapar da prisão na hora que quisesse, para dar o exemplo e iniciar a mudança de sua imagem junto ao público. Ray acredita que, com Hancock preso, a criminalidade irá disparar e, com isso, a população chamará de volta seu herói.",
+      "author": "Peter Berg",
+      "date": "12 de novembro de 2008",
+      "avaliacao": "3.8",
+      "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/05/36/19871544.jpg",
+      "id": 13
+    },
+    {
+      "title": "HOMEM DE FERRO",
+      "body": "Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.",
+      "author": " Jon Favreau",
+      "date": "30 de abril de 2008",
+      "avaliacao": "4.5",
+      "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/91/79/19/20163665.jpg",
+      "id": 14
     }
   ]
 }
